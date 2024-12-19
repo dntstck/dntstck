@@ -10,5 +10,5 @@
 
 <h3 align="center">Contact :email: </h3>
 <p align="center">
-<a href="https://linkedin.com/in/drudelarosa">LinkedIn</a> :link:</p>
+<a href="https://linkedin.com/in/drudelarosa">LinkedIn</a> :link:<br>
 <a href="mailto:dntstck@icloud.com">email</a> :envelope_with_arrow:</p>
