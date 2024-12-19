@@ -1,11 +1,7 @@
-<h1 align="center">**Dru Delarosa**</h1>
+<h1 align="center" style="bold">Dru Delarosa</h1>
 
-<h3 align="center> Latest Projects </h3>
+![Dru's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=dntstck)
 
-- [CWD Bootcamp](https://github.com/dntstck/CWD-bootcamp)
+I'm currently working on...
 
-<h3 align="center> Contact </h3>
-
-- [Profile](https://github.com/dntstck "Dru Delarosa")
-- [LinkedIn](https://linkedin.com/in/drudelarosa "LinkedIn")
-- 
+- [CWD Bootcamp](https://github.com/dntstck/CWD-bootcamp) 
