@@ -8,6 +8,6 @@
 
 - [CWD-Bootcamp](https://github.com/dntstck/CWD-Bootcamp) @ [HyperionDev](https://hyperiondev.com) :technologist:
 
-<h3 align="center">Contact</h3>
+<h3 align="center">Contact :email: </h3>
 
 - [LinkedIn](https://linkedin.com/in/drudelarosa)
