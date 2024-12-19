@@ -5,8 +5,8 @@
 
 <h3 align="center">Current Projects :computer: </h3>
 
-- [CWD-Bootcamp](https://github.com/dntstck/CWD-Bootcamp) @ [HyperionDev](https://hyperiondev.com) :technologist:
+<p align="center"><a href="https://github.com/dntstck/CWD-Bootcamp">CWD Bootcamp</a> @ <a href="https://hyperiondev.com">HyperionDev</a> :technologist: </p>
 
 <h3 align="center">Contact :email: </h3>
-
-- [LinkedIn](https://linkedin.com/in/drudelarosa)
+<p align="center">
+<a href="https://linkedin.com/in/drudelarosa">LinkedIn</a></p>
