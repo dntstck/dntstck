@@ -13,4 +13,3 @@
     <a href="https://orcid.org/0009-0003-6755-7655" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/28874348/dru-delarosa" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
   
-</p>
