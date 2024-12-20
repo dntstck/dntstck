@@ -14,3 +14,6 @@
 
 
 <h3 align="center">Current Projects :computer: </h3>
+
+<p align="center"><a href="https://github.com/dntstck/periodic-elements" >Interactive Table of Periodic Elements</a> :atom:</p> 
+<p align="center"><a href="https://github.com/dntstck/CWD-Bootcamp" >Cloud Web Development Bootcamp</a> @ <a href="https://hyperiondev.com" >HyperionDev</a> :technologist: </p>
