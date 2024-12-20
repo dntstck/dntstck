@@ -13,6 +13,4 @@
 
 
 
-<p align="center">
-<a href="https://linkedin.com/in/drudelarosa" >:link:</a><br>
-<a href="mailto:dntstck@icloud.com" >:envelope_with_arrow:</a></p>
+<h3 align="center">Current Projects :computer: </h3>
