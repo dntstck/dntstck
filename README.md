@@ -11,7 +11,7 @@
 <div align="center">    <a href="https://github.com/dntstck/Citizen.js" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div><br>
 <!-- Currently Studying -->
 
-<div align="center">    <a href="https://github.com/dntstck/CWD-Bootcamp" target="_blank"><img alt="Cloud Web Development Course" src="https://img.shields.io/badge/-Cloud%20Web%20Development%20Course-B3E5FC?&logo=adobecreativecloud&logoColor=white"></a> <img alt="@" src="https://img.shields.io/badge/-@-FE7A16"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a></div>
+<div align="center">    <a href="https://github.com/dntstck/CWD-Bootcamp" target="_blank"><img alt="Cloud Web Development Course" src="https://img.shields.io/badge/-Cloud%20Web%20Development%20Course-151515?&logo=adobecreativecloud&logoColor=white"></a> <img alt="@" src="https://img.shields.io/badge/-@-FE7A16"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a></div>
 <!-- Footer -->
 <br>
 <div align="center">
