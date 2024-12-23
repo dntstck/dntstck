@@ -7,15 +7,17 @@
 <div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-Current%20Projects-FE7A16?&logo=git&logoColor=white"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-FFD1DC?&logo=vim&logoColor=purple"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/CWD-Bootcamp" target="_blank"><img alt="Cloud Web Development Course" src="https://img.shields.io/badge/-Cloud%20Web%20Development%20Course-151515?&logo=github&logoColor=white"></a> <img alt="@" src="https://img.shields.io/badge/-@-FE7A16"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/HvN" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-HvN-151515?&logo=github"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/Citizen.js" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div>
+<div align="center">    <a href="https://github.com/dntstck/Citizen.js" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div><br>
+<!-- Currently Studying -->
+
+<div align="center">    <a href="https://github.com/dntstck/CWD-Bootcamp" target="_blank"><img alt="Cloud Web Development Course" src="https://img.shields.io/badge/-Cloud%20Web%20Development%20Course-B3E5FC?&logo=github&logoColor=white"></a> <img alt="@" src="https://img.shields.io/badge/-@-FE7A16"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a></div>
 <!-- Footer -->
 <br>
-<p align="center">
+<div align="center">
     <a href="https://github.com/dntstck" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dntstck-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/drudelarosa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
  </a>
     <a href="https://orcid.org/0009-0003-6755-7655" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/28874348/dru-delarosa" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a></p>
+    <a href="https://stackoverflow.com/users/28874348/dru-delarosa" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a></div>
   
