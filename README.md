@@ -14,7 +14,7 @@
 <div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Articles & Blog" src="https://img.shields.io/badge/-Articles%20&%20Blog-FE7A16?&logo=git&logoColor=white"></a></div>
  <div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-FFD1DC?&logo=Raspberry-Pi&logoColor=C51A4A"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/pElements" target="_blank"><img alt="C & Embedded" src="https://img.shields.io/badge/-C%20&%20Embedded-151515?&logo=C&logoColor=white"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/HvN" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Dev-151515?&logo=creativecloud&logoColor=white"></a></div>
+<div align="center">    <a href="https://github.com/dntstck/HvN" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development-151515?&logo=creativecloud&logoColor=white"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/citizen" target="_blank"><img alt="Operating Systems" src="https://img.shields.io/badge/-Operating%20Systems-151515?&logo=linux&logoColor=white"></a></div><br>
 
 <!-- Currently Studying -->
