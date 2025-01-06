@@ -13,7 +13,7 @@
 <br>
 <div align="center">    <a href="https://github.com/dntstck/blog" target="_blank"><img alt="Articles & Blog" src="https://img.shields.io/badge/-Articles%20&%20Blog-FE7A16?&logo=git&logoColor=white"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/blog/raspberrypi" target="_blank"><img alt="Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-FFD1DC?&logo=Raspberry-Pi&logoColor=C51A4A"></a></div>
- <div align="center">    <a href="https://github.com/dntstck/blog/raspberrypi" target="_blank"><img alt="Pi" src="https://img.shields.io/badge/-RP2040%20etc-FFD1DC?&logo=Raspberry-Pi&logoColor=C51A4A"></a></div>
+ <div align="center">    <a href="https://github.com/dntstck/blog/raspberrypi" target="_blank"><img alt="Pi" src="https://img.shields.io/badge/-Microcontrollers-151515?&logo=Arduino&logoColor=C51A4A"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/blog/embeddedc" target="_blank"><img alt="C & Embedded" src="https://img.shields.io/badge/-C%20&%20Embedded-151515?&logo=C&logoColor=white"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/blog/webdev" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development-151515?&logo=cloudfare&logoColor=white"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/blog/os" target="_blank"><img alt="Operating Systems" src="https://img.shields.io/badge/-Operating%20Systems-151515?&logo=linux&logoColor=white"></a></div><br>
