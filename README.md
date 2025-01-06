@@ -5,17 +5,12 @@
 <!-- Projects -->
 <br>
 <div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-Current%20Projects-FE7A16?&logo=git&logoColor=white"></a></div>
+<div align="center">    <a href="https://github.com/dntstck/blog"
+ target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Developer%20Blog-FFD1DC?&logo=vim&logoColor=purple"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-FFD1DC?&logo=vim&logoColor=purple"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div>
 <div align="center">    <a href="https://github.com/dntstck/HvN" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-HvN-151515?&logo=github"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/citizen" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div>
-<!-- Articles & Blog -->
-<br>
-<div align="center">    <a href="https://github.com/dntstck/blog" target="_blank"><img alt="Articles & Blog" src="https://img.shields.io/badge/-Articles%20&%20Blog-FE7A16?&logo=git&logoColor=white"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/blog/raspberrypi" target="_blank"><img alt="Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-FFD1DC?&logo=Raspberry-Pi&logoColor=C51A4A"></a></div>
- <div align="center">    <a href="https://github.com/dntstck/blog/raspberrypi" target="_blank"><img alt="Pi" src="https://img.shields.io/badge/-Microcontrollers-151515?&logo=Arduino&logoColor=C51A4A"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/blog/embeddedc" target="_blank"><img alt="C & Embedded" src="https://img.shields.io/badge/-C%20&%20Embedded-151515?&logo=C&logoColor=white"></a></div>
-<div align="center">    <a href="https://github.com/dntstck/blog/webdev" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development-151515?&logo=cloudfare&logoColor=white"></a></div>
+<div align="center">    <a href="https://github.com/dntstck/citizen" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div><br>
 <!-- Currently Studying -->
 <div align="center">    <a href="https://github.com/dntstck/CWD-Bootcamp" target="_blank"><img alt="Cloud Web Development Course" src="https://img.shields.io/badge/-Cloud%20Web%20Development%20Course-151515?&logo=cloudfare&logoColor=white"></a> <img alt="@" src="https://img.shields.io/badge/-@-FE7A16"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a></div>
 <!-- Footer -->
