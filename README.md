@@ -6,9 +6,6 @@
 <br>
 <div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-Current%20Projects-FE7A16?&logo=git&logoColor=white"></a></div>
 
-<div align="center">    <a href="https://github.com/dntstck/blog"
- target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Developer%20Blog-DD4814?&logo=github&logoColor=black"></a></div>
-
 <div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-FFD1DC?&logo=vim&logoColor=purple"></a></div>
 
 <div align="center">    <a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div>
@@ -21,9 +18,6 @@
 <!-- Footer -->
 <br>
 <div align="center">
-    <a href="https://github.com/dntstck" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dntstck-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/drudelarosa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
- </a>
-    <a href="https://orcid.org/0009-0003-6755-7655" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/28874348/dru-delarosa" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a></div>
+<a href="https://github.com/dntstck/blog"
+ target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Developer%20Blog-DD4814?style=flat-square&logo=github&logoColor=black"></a> <a href="https://github.com/dntstck" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dntstck-181717?style=flat-square&logo=GitHub&logoColor=white"></a> <a href="https://www.linkedin.com/in/drudelarosa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="https://orcid.org/0009-0003-6755-7655" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a> <a href="https://stackoverflow.com/users/28874348/dru-delarosa" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a></div>
   
