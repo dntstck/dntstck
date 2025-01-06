@@ -4,7 +4,7 @@
 </div>
 <!-- Projects -->
 <br>
-<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-Current%20Projects-FE7A16?&logo=git&logoColor=white"></a></div>
+<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20Current%20Projects%20-FE7A16?&logo=git&logoColor=white"></a></div>
 
 <div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-FFD1DC?&logo=vim&logoColor=purple"></a></div>
 
