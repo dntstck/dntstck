@@ -12,7 +12,7 @@
 
 <div align="center">    <a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div>
 
-<div align="center">    <a href="https://github.com/dntstck/citizen" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div><br>
+<div align="center">    <a href="https://github.com/dntstck/citizen" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-Citizen.js-151515?&logo=javascript&logoColor=white"></a></div>
 
 <div align="center">    <a href="https://github.com/dntstck/HvN" target="_blank"><img alt="HvN" src="https://img.shields.io/badge/-HvN-151515?&logo=github"></a></div>
 
