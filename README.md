@@ -6,7 +6,9 @@
 <br>
 <div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-Current%20Projects-FE7A16?&logo=git&logoColor=white"></a></div>
 
-<div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-FFD1DC?&logo=vim&logoColor=purple"></a></div>
+<div align="center">    <a href="https://github.com/dntstck/blog/devserver" target="_blank"><img alt="dev server" src="https://img.shields.io/badge/-Dev%20Server-151515?&logo=raspberrypi&logoColor=C51A4A"></a></div>
+
+<div align="center">    <a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-151515?&logo=vim&logoColor=purple"></a></div>
 
 <div align="center">    <a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div>
 
