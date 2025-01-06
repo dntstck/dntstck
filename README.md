@@ -4,7 +4,7 @@
 </div>
 <!-- Projects -->
 <br>
-<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20Current%20Projects%20-FE7A16?&logo=git&logoColor=white"></a></div>
+<div align="center">    <a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20Current%20Projects%20%20-FE7A16?&logo=git&logoColor=white"></a></div>
 
 <div align="center">    <a href="https://github.com/dntstck/blog/tree/master/devserver" target="_blank"><img alt="dev server" src="https://img.shields.io/badge/-Home%20Dev%20Server-151515?&logo=raspberrypi&logoColor=C51A4A"></a></div>
 
