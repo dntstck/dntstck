@@ -12,7 +12,7 @@
 
 <div align="center"><a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div><br>
  
-<!-- Support -->
+<!-- Supporting -->
 <div align="center"><img alt="Proudly Supporting" src="https://img.shields.io/badge/-[Proudly%20Supporting]-FE7A16?&logo=githubsponsors&logoColor=white"><br>
 <a href="https://www.goodthingsfoundation.org/" target="_blank"><img alt="Good Things Foundation"" src="https://img.shields.io/badge/-Good%20Things%20Foundation-151515?&logo=githubsponsors&logoColor=white"><br>
 <a href="https://www.wearebgc.org/" target="_blank"><img alt="Black Girls Code" src="https://img.shields.io/badge/-Black%20Girls%20Code-151515?&logo=githubsponsors&logoColor=white"><br>
