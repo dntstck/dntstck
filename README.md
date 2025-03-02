@@ -8,10 +8,6 @@
 <div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20[Current%20Projects]%20%20-FE7A16?&logo=git&logoColor=white"></a></div>
 <div align="center"><a href="https://github.com/dntstck/CWD-Bootcamp" target="_blank"><img alt="Cloud Web Development Course" src="https://img.shields.io/badge/-Cloud%20Web%20Development%20Course-151515?&logo=cloudfare&logoColor=white"></a><img alt="@" src="https://img.shields.io/badge/-@-FE7A16"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a>
 <div align="center"><a href="https://dntstck.github.io/blog/devserver" target="_blank"><img alt="dev server" src="https://img.shields.io/badge/-Home%20Dev%20Server-151515?&logo=raspberrypi&logoColor=C51A4A"></a></div>
-
-<div align="center"><a href="https://github.com/dntstck/ubuntu.vim" target="_blank"><img alt="ubuntu.vim" src="https://img.shields.io/badge/-ubuntu.vim-151515?&logo=vim&logoColor=A6CE39"></a></div>
-
-<div align="center"><a href="https://github.com/dntstck/pElements" target="_blank"><img alt="pElements" src="https://img.shields.io/badge/-pElements-151515?&logo=github&logoColor=white"></a></div><br>
  
 <!-- Supporting -->
 <div align="center"><img alt="Proudly Supporting" src="https://img.shields.io/badge/-[Proudly%20Supporting]-FE7A16?&logo=githubsponsors&logoColor=white"><br>
