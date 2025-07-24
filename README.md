@@ -7,7 +7,6 @@
 <br>
 <p align="center">software engineer specializing in developer tooling, automation-first infrastructure, embedded orchestration, self-hosted CI/CD, and multi-architecture Rust pipelines.</p>
 <!-- Projects -->
-<br>
 <div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20[Current%20Projects]%20%20-FE7A16?&logo=git&logoColor=white"></a></div>
 <div align="center"><a href="https://github.com/dntstck/virgo" target="_blank"><img alt="Virgo" src="https://img.shields.io/badge/Virgo-181717?&logo=vim&logoColor=A6CE39"></a><br></div><br>
  
