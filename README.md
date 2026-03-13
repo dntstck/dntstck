@@ -25,6 +25,7 @@
 <!-- Intro -->
 <br>
 <p align="center">systems & hpc engineer. rust, riscv & linux.</p>
+<p align="center"><sub>note: most of my active work lives on my self‑hosted gogs instance; this github is a public mirror.</sub></p>
 <!-- Projects -->
 <div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20[Current%20Projects]%20%20-FE7A16?&logo=git&logoColor=white"></a></div>
 <div align="center"><a href="https://github.com/dntstck/virgo" target="_blank"><img alt="Virgo" src="https://img.shields.io/badge/Virgo-181717?&logo=vim&logoColor=A6CE39"></a><br></div><br>
